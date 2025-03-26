@@ -22,8 +22,8 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Shuaiqi_Profile_pic.jpg"
-  name             : "Your Sidebar Name"
+  avatar           : "Shuaiqi_Profile_pic.png"
+  name             : "Shuaiqi Wu"
   pronouns         : "He/His"
   bio              : "PhD Candidate at UC Davis"
   location         : "Davis, California"
