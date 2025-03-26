@@ -1,11 +1,3 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
-# server process.
-
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
@@ -22,7 +14,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Shuaiqi_Profile_pic_720.png"
+  #avatar           : "Shuaiqi_Profile_pic_720.png"
   name             : "Shuaiqi Wu"
   pronouns         : "He/His"
   bio              : "PhD Candidate at UC Davis"
