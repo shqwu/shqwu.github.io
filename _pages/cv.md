@@ -11,9 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Atmospheric Science, University of California, Davis, 2025 (expected)
+* M.S. in Environmental Engineering, University of Illinois Urbana-Champaign, 2019
+* B.S. in Civil and Environmental Engineering, 2018
+
+Research Experience
+======
+* Graduate Researcher
+  University of California, Davis
+  * Developing a gridded Python-based AquaCrop and calibra ng it for maize in the U.S.
+  * Advancing the Modeling of Future Climate and Innova on Impacts on Perennial Crops to Support 
+    Adapta on: A Case Study of California Almonds. 
+
 
 Work experience
 ======
