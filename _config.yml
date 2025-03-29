@@ -14,7 +14,7 @@ repository               : "shqwu/shqwu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/Shuaiqi_Profile_pic_720.png"
+  avatar           : "Shuaiqi_Profile_pic_720.png"
   name             : "Shuaiqi Wu"
   pronouns         : "He/His"
   bio              : "PhD Candidate at UC Davis"
