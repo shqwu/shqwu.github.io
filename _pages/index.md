@@ -12,7 +12,7 @@ header:
     - label: "Download CV"
       url: "assets/Shuaiqi_Wu_CV.pdf"
 feature_row:
-  - image_path: /assetsAlmond_CA_yield_decline.png
+  - image_path: assets/Almond_CA_yield_decline.png
     alt: "global map"
     title: "Scientific Research"
     excerpt: "Understanding the ocean’s role in climate variability and air-sea interaction"
