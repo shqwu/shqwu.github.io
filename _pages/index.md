@@ -7,12 +7,12 @@ author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.2"
-  overlay_image: assets/hiking_view.jpg
+  overlay_image: "../assets/hiking_view.jpg"
   actions:
     - label: "Download CV"
       url: "assets/Shuaiqi_Wu_CV.pdf"
 feature_row:
-  - image_path: assets/Almond_CA_yield_decline.png
+  - image_path: "../assets/Almond_CA_yield_decline.png"
     alt: "global map"
     title: "Scientific Research"
     excerpt: "Understanding the ocean’s role in climate variability and air-sea interaction"
