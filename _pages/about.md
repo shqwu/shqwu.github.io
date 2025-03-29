@@ -7,10 +7,9 @@ redirect_from:
   - /about.html
 
 feature_row:
-  - image_path: /assets/research_global_map.png
-    alt: "global map"
+  - image_path: /assets/Almond_CA_yield_decline.png
     title: "California Almonds"
-    excerpt: "What's "
+    excerpt: "How almonds yield will change in the future and what's the major yield loss driver?"
     url: "research"
     btn_label: "Read More"
     btn_class: "btn--inverse"
