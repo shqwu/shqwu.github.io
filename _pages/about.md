@@ -2,9 +2,7 @@
 permalink: /
 title: "Shuaiqi Wu"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+
 
 feature_row:
   - image_path: /images/Shuaiqi_Profile_pic_720.png
