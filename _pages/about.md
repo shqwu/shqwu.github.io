@@ -5,7 +5,7 @@ author_profile: true
 
 
 feature_row:
-  - image_path: /images/Shuaiqi_Profile_pic_720.png
+  - image_path: "/images/Shuaiqi_Profile_pic_720.png"
     alt: "CA Almond Yield"
     title: "California Almonds"
     excerpt: "How almonds yield will change in the future and what's the major yield loss driver?"
