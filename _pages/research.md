@@ -22,7 +22,7 @@ AquaCrop, developed by the FAO, simulates crop growth and responses to water str
 
 Wu, S., & Monier, E. A gridded version of Python-based AquaCrop calibrated by Bayesian Inference for maize in the United States. (Manuscript in preparaRon for Journal of Advances in Modeling Earth Systems)
 
-Wu, S., Zikalala, P. G., Alba, S., Jarvis-Shean, K. S., Kisekka, I., Segaran, M., Snyder, R., & Monier, E. (In Press) Advancing the modeling of future climate and innovaRon impacts on perennial crops to support adaptaRon: a case study of California almonds, _Earth’s Future_/
+Wu, S., Zikalala, P. G., Alba, S., Jarvis-Shean, K. S., Kisekka, I., Segaran, M., Snyder, R., & Monier, E. (In Press) Advancing the modeling of future climate and innovaRon impacts on perennial crops to support adaptaRon: a case study of California almonds, _Earth’s Future_
 
 Xing, Y., Wu, S., & Men, Y. (2020). Exposure to environmental levels of pesRcides sRmulates and diversifies evoluRon in Escherichia coli toward higher anRbioRc resistance. _Environmental science & technology_, 54(14), 8770-8778.
                                                                                                                               
