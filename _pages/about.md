@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 
 feature_row:
-  - image_path: "/assets/Almond_CA_yield_decline.png"
+  - image_path: /assets/Almond_CA_yield_decline.png
+    alt: "CA Almond Yield"
     title: "California Almonds"
     excerpt: "How almonds yield will change in the future and what's the major yield loss driver?"
     url: "research"
