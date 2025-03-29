@@ -62,12 +62,13 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+Teaching Experience
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Crisis in Environment (SAS 9), UC Davis, Winter 2023 - 2025
+* Modern Climate Change (ATM 116), UC Davis, Fall 2024
+* Climate Change, Water & Society (ATM 245), UC Davis, Fall 2022
+* Severe & Unusual Weather (ATM 10), UC Davis, Fall 2021
   
-Service and leadership
+Work Experience
 ======
-* Currently signed in to 43 different slack teams
+* Intern of Environmental Affairs, UN Environment Northwest Pacific Action Plan, 2019
