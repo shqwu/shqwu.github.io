@@ -1,7 +1,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Shuaiqi's Web"
+title                    : "Shuaiqi Wu @ UCD"
 title_separator          : "-"
 name                     : &name "Shuaiqi Wu"
 description              : &description "personal description"
